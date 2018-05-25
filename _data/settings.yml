@@ -7,41 +7,41 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Tandra & Jeremy Bowers
   title:
   license_number:
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    Since 2005, Tandra and her husband have been investing in real estate properties together, which has now afforded her the ability to focus solely on real estate as her Full-Time career. She brings to her clients a wealth of experience in sales and negotiation skills as well as thorough analysis in finding and securing the right property for them. She is a FULL-TIME licensed real estate agent who is enthusiastic, professional, and friendly.
+  market: Philadelphia
+  brand: Home Experts For You | Real Estate Team
+  brokerage: Keller Williams
+  address: 686 Dekalb Pike<br>Bluebell, PA 19422
+  phone: 215-680-4652
   phone_type:
   phone2:
   phone2_type:
-  email:
+  email: Tandra@homeexpertsforyou.com
   url:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.homeexpertsforyou.com/form-cma.php
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://search.homeexpertsforyou.com/agent/226893
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.homeexpertsforyou.com/form-cma.php
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://search.homeexpertsforyou.com/agent/226893
 
 lender:
   show_section: false
@@ -56,15 +56,15 @@ lender:
   url: http://eyegoop.com
 
 socials:
-  review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  review_sm_icons: true
+  facebook_url: https://www.facebook.com/Suburb-Living-by-Tandra-Bowers-462105017282729/
+  linkedin_url: https://www.linkedin.com/in/tandra-bowers-8a899126/
   gplus_url:
   youtube_url:
   twitter_url:
   instagram_url:
   pinterest_url:
-  zillow_url:
+  zillow_url: https://www.zillow.com/profile/Tandra-Bowers/
   trulia_url:
   yelp_url:
   podcast_url:
@@ -87,7 +87,7 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
+  brand_color: '#d11142'
   theme_color: '#999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
@@ -100,7 +100,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgb(238, 238, 238)
 
 buttons:
   button_radius_number: 0
