@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Philadelphia Real Estate Video Blog with Tandra & Jeremy Bowers
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -12,10 +12,10 @@ client:
   license_number:
   about_markdown: |
     Since 2005, Tandra and her husband have been investing in real estate properties together, which has now afforded her the ability to focus solely on real estate as her Full-Time career. She brings to her clients a wealth of experience in sales and negotiation skills as well as thorough analysis in finding and securing the right property for them. She is a FULL-TIME licensed real estate agent who is enthusiastic, professional, and friendly.
-  market: 
+  market: Philadelphia
   brand: Home Experts For You Real Estate Team
   brokerage: Keller Williams
-  address: 
+  address:
   phone: 215-680-4652
   phone_type:
   phone2:
@@ -67,7 +67,7 @@ socials:
   zillow_url: https://www.zillow.com/profile/Tandra-Bowers/
   trulia_url:
   yelp_url:
-  podcast_url: 
+  podcast_url:
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
