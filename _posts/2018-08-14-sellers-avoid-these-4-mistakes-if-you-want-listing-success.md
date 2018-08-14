@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sellers: Avoid These 4 Mistakes If You Want Listing Success'
-date: 2018-09-13 20:01:00
+date: 2018-08-14 20:01:00
 tags:
   - Real Estate
 excerpt:
