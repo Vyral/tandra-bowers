@@ -4,8 +4,8 @@ title: 'Sellers: Avoid These 4 Mistakes If You Want Listing Success'
 date: 2018-08-14 20:01:00
 tags:
   - Real Estate
-excerpt:
-enclosure: 'To be a successful seller, it’s important to avoid these four mistakes.'
+excerpt: 'To be a successful seller, it’s important to avoid these four mistakes.'
+enclosure:
 pullquote: >-
   If you know a faucet is leaking, for example, don’t leave the problem to get
   worse.
