@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 3 Useful Tips for Homeowners This Fall
-date: 2018-10-22 21:27:16
+date: 2018-10-22 21:27:00
 tags:
   - Real Estate
 excerpt: >-
   If you plan on selling your home this fall, I have some great tips for you
   today. Here’s what you should focus on when preparing your home.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tandra+Bowers/Tandra+Bowers+-+3+Useful+Tips+for+Homeowners+This+Fall.mp4
 pullquote: Any extra pop of color will make your home look fantastic.
 enclosure_type: video/mp4
 enclosure_time:
