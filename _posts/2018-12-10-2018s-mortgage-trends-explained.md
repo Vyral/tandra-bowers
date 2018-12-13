@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2018’s Mortgage Trends Explained
-date: 2018-12-10 21:55:47
+date: 2018-12-10 21:55:00
 tags:
   - Real Estate
 excerpt: >-
@@ -11,7 +11,7 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image:
 youtube_code: kd102oM0vJU
 ---
@@ -32,10 +32,10 @@ As 2018 comes to a close, now is the perfect time for us to review some of the m
 
 4:10 - How are new construction homes being used to meet current demand?
 
-4:58 - Are we in a buyer’s or a seller’s market in the higher price points? &nbsp;
+4:58 - Are we in a buyer’s or a seller’s market in the higher price points?  
 
 5:45 - How the lending process has been made easier recently.
 
 6:45 - Why having strong representation while buying or selling is important.
 
-If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.&nbsp;
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
