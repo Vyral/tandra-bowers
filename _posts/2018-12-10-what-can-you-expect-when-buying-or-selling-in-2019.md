@@ -28,11 +28,11 @@ As 2018 comes to a close, now is the perfect time for us to review some of the m
 
 2:08 - What do changes to the conforming loan limit mean for buyers?
 
-2:48 - What is the average age group for first-time homebuyers, and what issues are younger buyers encountering?
+2:48 - What issues are many buyers encountering?
 
 4:10 - How are new construction homes being used to meet current demand?
 
-4:58 - Are we in a buyer’s or a seller’s market in the higher price points?  
+4:58 - Are we in a buyer’s or a seller’s market in the higher price points? &nbsp;
 
 5:45 - How the lending process has been made easier recently.
 
