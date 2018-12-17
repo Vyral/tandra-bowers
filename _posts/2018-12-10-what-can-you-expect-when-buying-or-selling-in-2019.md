@@ -34,7 +34,7 @@ As 2018 comes to a close, now is the perfect time for us to review some of the m
 
 4:58 - Are we in a buyer’s or a seller’s market in the higher price points? &nbsp;
 
-5:45 - How the lending process has been made easier recently.
+5:45 - What are the recent changes to the lending process that make for a smoother home-buying experience?
 
 6:45 - Why having strong representation while buying or selling is important.
 
