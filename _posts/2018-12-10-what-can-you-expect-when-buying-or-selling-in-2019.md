@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2018’s Mortgage Trends Explained
+title: What Can You Expect When Buying or Selling in 2019?
 date: 2018-12-10 21:55:00
 tags:
   - Real Estate
@@ -11,8 +11,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/lending-trends-youtube-1.jpg
+use_youtube_image: true
+youtube_alternate_image:
 youtube_code: kd102oM0vJU
 ---
 
