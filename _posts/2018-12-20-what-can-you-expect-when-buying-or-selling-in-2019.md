@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Can You Expect When Buying or Selling in 2019?
-date: 2018-12-10 21:55:00
+date: 2018-12-20 21:55:00
 tags:
   - Real Estate
 excerpt: >-
@@ -32,7 +32,7 @@ As 2018 comes to a close, now is the perfect time for us to review some of the m
 
 4:10 - How are new construction homes being used to meet current demand?
 
-4:58 - Are we in a buyer’s or a seller’s market in the higher price points? &nbsp;
+4:58 - Are we in a buyer’s or a seller’s market in the higher price points?  
 
 5:45 - What are the recent changes to the lending process that make for a smoother home-buying experience?
 
