@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Few Reasons & Tips for Selling This Winter
-date: 2018-12-20 21:55:00
+date: 2019-02-04 21:55:00
 tags:
   - Real Estate
 excerpt: >-
@@ -26,6 +26,6 @@ Inspired by these cold winter days, I’d like to share some tips for selling yo
 2. **There is less competition.** By listing now, you’ll be a few steps ahead of the spring market and the torrent of competition that will follow.
 3. **Make sure your home is priced correctly.** If you do choose to sell during the winter, be careful not to overprice your home or test the market. Evaluate sale prices of comparable homes over the last 60 days and decide what price point you can be successful in.
 
-Test and ensure that your roof, furnace, and HVAC are working. &nbsp;&nbsp;
+Test and ensure that your roof, furnace, and HVAC are working.   
 
 For help with any and all of your real estate needs, please give me a call at 215-680-4652 or visit our website at SuburbLiving.com. We’d love to assist you!
