@@ -23,7 +23,7 @@ youtube_code: XH7PIyDIdMI
 
 If you’re a home seller, what can do to your home to get the best return on investment?
 
-According to Laurie Allison, a state-certified residential appraiser with 29 years of experience in the real estate industry, here are the top tasks you can focus on:
+**According to Laurie Allison, a state-certified residential appraiser with 29 years of experience in the real estate industry, here are the top tasks you can focus on:**
 
 * Decluttering
 * Upgrading your flooring
