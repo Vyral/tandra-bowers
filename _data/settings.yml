@@ -10,7 +10,7 @@ description: >-
 show_custom_links: True
 custom_links:
   - title: Upcoming Events
-    url: /events/
+    url: https://suburblivingblog.com/events/
 client:
   name: Tandra & Jeremy Bowers
   title:
