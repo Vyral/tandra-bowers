@@ -13,6 +13,9 @@ custom_links:
     url: 'https://suburblivingblog.com/events/'
   - title: Testimonials
     url: /testimonials/
+     - title: Refer a Friend
+    url: /referafriend/
+    
 client:
   name: Tandra & Jeremy Bowers
   title:
