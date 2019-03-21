@@ -6,7 +6,7 @@ permalink: /referafriend/
 
 # Refer a Friend-
 
-### Know anyone thinking of&nbsp;**buying**,&nbsp;**selling**,&nbsp;**investing, or working in&nbsp;****real estate?**
+### **Know anyone thinking of buying, selling, investing, or working in real estate?**
 
 Let us know by filling out the form below!
 
