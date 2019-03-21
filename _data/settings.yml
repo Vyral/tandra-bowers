@@ -105,10 +105,10 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /uploads/tandra-logo.png
-  logo_width_number: 50
+  logo_width_number: 75
   hero_text: Tandra's Real Estate Video Blog
   hero_background_hex: '#999999'
-  hero_image_path: /uploads/bigstock-beautiful-kitchen-in-luxury-ho-257148361.jpg
+  hero_image_path: /uploads/tandra-bowers-background-1.png
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#d11142'
