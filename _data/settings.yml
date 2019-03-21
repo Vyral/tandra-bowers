@@ -13,7 +13,7 @@ custom_links:
     url: 'https://suburblivingblog.com/events/'
   - title: Testimonials
     url: /testimonials/
-     - title: Refer a Friend
+  - title: Refer a Friend
     url: /referafriend/
     
 client:
