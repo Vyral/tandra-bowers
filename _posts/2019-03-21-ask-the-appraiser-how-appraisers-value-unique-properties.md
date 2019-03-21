@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ask the Appraiser: How Appraisers Value Unique Properties'
-date: 2019-03-15 10:00:00
+date: 2019-03-21 10:00:00
 tags:
   - Real Estate
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: 7aOX_pVqBSw
 
 {% include youtube.html %}
 
-&nbsp;
+ 
 
 Welcome back to our “Ask the Appraiser” series. Once again, we’re joined by special guest and Pennsylvania State Certified Home Appraiser Laurie Allison to discuss another critical topic. This time, we’re covering how appraisers assess and adjust their valuation process for, particularly unique homes.
 
