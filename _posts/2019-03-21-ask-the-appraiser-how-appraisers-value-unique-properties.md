@@ -19,8 +19,6 @@ youtube_code: 7aOX_pVqBSw
 
 {% include youtube.html %}
 
- 
-
 Welcome back to our “Ask the Appraiser” series. Once again, we’re joined by special guest and Pennsylvania State Certified Home Appraiser Laurie Allison to discuss another critical topic. This time, we’re covering how appraisers assess and adjust their valuation process for, particularly unique homes.
 
 First, we’d like to remind you how appraisers determine the value to begin with. In short, appraisers look for comparable, previously sold properties (generally called “comps”) and then use the sales history for those properties to determine a fair value for the house in question. **Appraisers, therefore, look for comps that have similar qualities to those found in the subject property.**
