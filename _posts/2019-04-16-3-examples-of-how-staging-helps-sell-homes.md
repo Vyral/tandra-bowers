@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Examples of How Staging Helps Sell Homes
-date: 2019-04-16 15:30:04
+date: 2019-04-16 09:00:00
 tags:
   - Real Estate
 excerpt: Home staging is an essential part of preparing a home for sale. Here’s why.
@@ -34,4 +34,4 @@ We wanted to give you some tips and pointers and let you know about where we foc
 
 **As you can see in the video above, home staging is an art and a science, and it really makes a huge difference when selling your home.**
 
- If you have any questions for us in the meantime about home staging or about real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any questions for us in the meantime about home staging or about real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
