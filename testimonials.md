@@ -6,6 +6,6 @@ permalink: /testimonials/
 
 ## Testimonials
 
-[![](/uploads/tandra-reviews.png){: width="731" height="2082"}](https://www.zillow.com/profile/HomeExpertsForYou/){: target="_blank"}
+[![](/uploads/tandra-bowers-reviews.png){: width="667" height="2310"}](https://www.zillow.com/profile/Tandra-Bowers/#reviews){: target="_blank"}
 
 &nbsp;
