@@ -6,6 +6,6 @@ permalink: /testimonials/
 
 ## Testimonials
 
-![](/uploads/tandra-1.PNG)
+![](/uploads/tandra-reviews.png){: width="731" height="2082"}
 
-![](/uploads/tandra2.PNG)
+&nbsp;
