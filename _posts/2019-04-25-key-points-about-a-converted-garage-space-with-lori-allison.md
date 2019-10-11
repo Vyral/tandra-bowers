@@ -8,7 +8,8 @@ excerpt: >-
   In today’s fifth and final installment in our “Ask the Appraiser” series,
   we’re joined by Lori Allison, a Pennsylvania-certified appraiser, to learn
   from her wealth of knowledge.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tandra+Bowers/2019/Tandra+Bowers+Video+Blog+converted+garage+space.mp4
 pullquote: >-
   Once you’ve converted a garage into a living space, the square footage of that
   area is treated the same as the rest of the house on the main level.
@@ -16,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/what-to-know-about-your-converted-garage-space-youtube.jpg
-youtube_code: 7NAzjQHn-ao
+youtube_code: ZtY6kHYPqyY
 ---
 
 {% include youtube.html %}
