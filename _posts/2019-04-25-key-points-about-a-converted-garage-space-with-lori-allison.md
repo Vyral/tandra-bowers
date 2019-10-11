@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Key Points About a Converted Garage Space: With Lori Allison'
+title: 'Expert Tips on What to Consider When You Convert Your Garage'
 date: 2019-04-25 00:00:00
 tags:
   - Real Estate
@@ -21,7 +21,7 @@ youtube_code: 7NAzjQHn-ao
 
 {% include youtube.html %}
 
-<p; style="text-align: center;"><em>In today’s fifth and final installment in our “Ask the Appraiser” series, we’re joined by Lori Allison, a Pennsylvania-certified appraiser, to learn from her wealth of knowledge.</em></p>
+<p style="text-align: center;"><em>In today’s fifth and final installment in our “Ask the Appraiser” series, we’re joined by Lori Allison, a Pennsylvania-certified appraiser, to learn from her wealth of knowledge.</em></p>
 
 My first question for Lori Allison, who has been a certified appraiser for 29 years, is one that’s important for investors and homeowners alike: How does a garage that was converted into a living space affect a home evaluation?
 
