@@ -21,6 +21,8 @@ youtube_code: 7NAzjQHn-ao
 
 {% include youtube.html %}
 
+<p; style="text-align: center;"><em>In today’s fifth and final installment in our “Ask the Appraiser” series, we’re joined by Lori Allison, a Pennsylvania-certified appraiser, to learn from her wealth of knowledge.</em></p>
+
 My first question for Lori Allison, who has been a certified appraiser for 29 years, is one that’s important for investors and homeowners alike: How does a garage that was converted into a living space affect a home evaluation?
 
 Lori says **that arrangement can impact a home evaluation in a couple different ways.** For instance, she recently did a measurement for a listing in which the garage was converted to a living space, but it was recorded in public records as a garage. That meant that the square footage of living space on public record was lower than the home’s actual living area. Once you’ve converted a garage into a living space, the square footage of that area is treated the same as the rest of the house on the main level.
