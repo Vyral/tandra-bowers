@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/8VhhDQaPjOA'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Many sellers assume they need to renovate before they can list their home on the market, but is this always the case? Let’s discuss.</em></p>
+<p style="text-align: center;"><em>Many sellers assume they need to renovate before they can list their homes on the market. But is this always the case? Let’s discuss.</em></p>
 
 Some homeowners assume that they need to fix their home up before they sell, and while sprucing things up is generally a good idea, going overboard with renovations isn’t always necessary. The preparations you make to your home before listing will depend on what kind of property you’re selling. There are three main categories properties tend to fall into:&nbsp;
 
