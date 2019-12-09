@@ -8,7 +8,7 @@ excerpt: >-
   Many sellers assume they need to renovate before they can list their home on
   the market, but is this always the case? Let’s discuss.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Tandra+Bowers/2019/Tandra+Bowers+Video+Blog+Should+You+Make+Renovations.mp4
+  https://vyralmarketing.s3.amazonaws.com/Tandra+Bowers/2019/Tandra+Bowers+Video+Blog+3+types+of+homes.mp4
 pullquote: >-
   The preparations you make to your home before listing will depend on what kind
   of property you’re selling.
