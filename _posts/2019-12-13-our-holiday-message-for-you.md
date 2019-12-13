@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: https://youtu.be/DAjVUD-TvFc
 ---
 
 {% include youtube.html %}
 
-The holiday season is here and we wanted to send out a message of gratitude for all of your support this year.
+<p style="text-align: center;"><em>The holiday season is here and we wanted to send out a message of gratitude for all of your support this year.</em></p>
 
 We want to wish you a very happy holiday season as we wrap up 2019. We’ve helped so many families in the past year buy and sell a home, and much of it is thanks to you and your referrals.
 
