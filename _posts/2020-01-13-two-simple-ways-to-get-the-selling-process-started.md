@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/GorbFuInlIg'
 
 {% include youtube.html %}
 
-<p styl="text-align: center;"><em>2020 is underway, and if you’re wanting to sell, here’s what you should do first.</em></p>
+<p style="text-align: center;"><em>2020 is underway, and if you’re wanting to sell, here’s what you should do first.</em></p>
 
 When is the best time to list your house and sell? Simply put, it’s right now\! But before you even get a Realtor to come through your door, there are a couple of things you can start doing right now.&nbsp;
 
