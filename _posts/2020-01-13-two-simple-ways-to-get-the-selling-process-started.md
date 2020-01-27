@@ -8,13 +8,13 @@ excerpt: >-
   2020 is underway, and if you want to sell, here’s what you should do
   first.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Tandra+Bowers/2020/Tandra+Bowers+Video+Blog+When+Is+the+Best+Time+to+List_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Tandra+Bowers/2020/best+time+to+list.mp4
 pullquote: 'Putting a fresh coat of paint on your front door goes a long way, too.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/GorbFuInlIg'
+youtube_code: 'https://youtu.be/wdTiQ85Tlcc'
 ---
 
 {% include youtube.html %}
