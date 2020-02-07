@@ -30,8 +30,8 @@ If you’ve visited the Zillow website, then you know about Zestimates. Are Zest
 **Factors that help determine your home’s value:&nbsp;**
 
 * Condition of the home. Is it updated? Does it need repairs?&nbsp;
-* Comparables. What has sold in the last 180 days that compares to your house?
-* Location. Location can truly vary your property’s value
+* Comparables. What comparable homes have sold in the last 180 days that compares?
+* Location. This can truly vary your property’s value
 
 These are all factors that Zestimates cannot take into account. A Zestimate might be a number that helps you get started, but for an authentic valuation, you need a custom one done by a professional.&nbsp;
 
