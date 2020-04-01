@@ -19,7 +19,7 @@ youtube_code: 5xyljl7Qir4
 
 {% include youtube.html %}
 
-Though there have been a lot of day-to-day changes, the real estate market is moving forward.
+<p sty;e="text-align: center;"><em>Though there have been a lot of day-to-day changes, the real estate market is moving forward.</em></p>
 
 As the world navigates the coronavirus pandemic, I want to give you a quick update on what’s happening in our real estate market.
 
