@@ -19,7 +19,7 @@ youtube_code: L5kBK-ShyA0
 
 {% include youtube.html %}
 
-There are all sorts of contingencies that occur in a transaction, but today I’m taking a look at the four most prominent ones.
+<p style="text-align: center;"><em>There are all sorts of contingencies that occur in a transaction, but today I’m taking a look at the four most prominent ones.</em></p>
 
 In real estate, a contingency means that a condition on the agreement of sale needs to be met for the sale to keep moving forward. Though every transaction will require a different approach, the goal is always to create a win-win situation for all parties.&nbsp;
 
