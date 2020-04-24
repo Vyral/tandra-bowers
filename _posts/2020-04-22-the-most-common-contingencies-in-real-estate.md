@@ -31,8 +31,8 @@ Here are the four most common contingencies that we see:&nbsp;
 
 {% include pullquote.html %}
 
-**3\. Appraisal process.** The home must appraise for its purchase price for the mortgage company to lend the buyer an amount matching that price. In other words, an appraisal ensures that the supposed value of home is truly there. It’s not just value they’re looking for though; condition matters greatly too. Sometimes, an appraiser might call for repairs before settlement can occur.&nbsp;
+**3\. Appraisal process.** The home must appraise for its purchase price for the mortgage company to lend the buyer an amount matching that price. In other words, an appraisal ensures that the supposed value of the home is truly there. It’s not just value they’re looking for though; condition matters greatly too. Sometimes, an appraiser might call for repairs before settlement can occur.&nbsp;
 
-**4\. Title.** A buyer needs a free and clear title—no liens, back taxes or encumbrances can be present on that property if they want to receive the mortgage company’s OK to settle.&nbsp;
+**4\. Title.** A buyer needs a free and clear title—no liens, back taxes, or encumbrances can be present on that property if they want to receive the mortgage company’s OK to settle.&nbsp;
 
 If you need further information on this topic or have questions on any other real estate-related topics, feel free to give me a call or send an email. I always look forward to hearing from you.
