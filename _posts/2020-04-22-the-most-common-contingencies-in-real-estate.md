@@ -36,3 +36,5 @@ Here are the four most common contingencies that we see:&nbsp;
 **4\. Title.** A buyer needs a free and clear title—no liens, back taxes, or encumbrances can be present on that property if they want to receive the mortgage company’s OK to settle.&nbsp;
 
 If you need further information on this topic or have questions on any other real estate-related topics, feel free to give me a call or send an email. I always look forward to hearing from you.
+
+ **During the COVID-19 crisis, there may be additional types of contingencies. If you'd like to discuss these, please give me a call.**
