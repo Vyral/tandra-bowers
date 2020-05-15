@@ -17,7 +17,7 @@ youtube_code: PbOd2HeI9Pc
 
 {% include youtube.html %}
 
-Here’s how we determine how much a home’s value will appreciate.
+<p style="text-align: center;"><em>Here’s how we determine how much a home’s value will appreciate.</em></p>
 
 People often ask me how much their home’s value will appreciate. That’s actually a hard question to answer.
 
@@ -25,10 +25,10 @@ If you’re an investor, we can look at the timeline of when you plan to make re
 
 We actually look at a few factors:
 
-1. **Historical trends.** We don’t have a crystal ball, but looking at the past could give us an idea of what to expect in the future.
-2. **Inventory**. We can also look at the available inventory at a given time to determine whether it’s a buyer’s or a seller’s market.
-3. **Mortgage rates**. Mortgage rates undoubtedly have an impact on home buying, and that activity will have a bearing on how much your home will appreciate.&nbsp;
-4. **New developments** will affect home appreciation.
-5. **The desirability of the neighborhood.** A home’s location and school districts will determine a higher or lower rate of appreciation.
+**1. Historical trends.** We don’t have a crystal ball, but looking at the past could give us an idea of what to expect in the future.
+**2. Inventory**. We can also look at the available inventory at a given time to determine whether it’s a buyer’s or a seller’s market.
+**3. Mortgage rates**. Mortgage rates undoubtedly have an impact on home buying, and that activity will have a bearing on how much your home will appreciate.&nbsp;
+**4. New developments** will affect home appreciation.
+**5. The desirability of the neighborhood.** A home’s location and school districts will determine a higher or lower rate of appreciation.
 
 If you’d like further information about home appreciation, please feel free to contact me. I’d be happy to talk to you.
