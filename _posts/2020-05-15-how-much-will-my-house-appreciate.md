@@ -19,7 +19,7 @@ youtube_code: PbOd2HeI9Pc
 
 <p style="text-align: center;"><em>Here’s how we determine how much a home’s value will appreciate.</em></p>
 
-People often ask me how much their home’s value will appreciate. That’s actually a hard question to answer.
+People often ask me how much their home’s value will appreciate. That’s a hard question to answer.
 
 If you’re an investor, we can look at the timeline of when you plan to make renovations and sell the property, but most people are buying properties with the intention of living there for several years. So how do we determine how much your house will appreciate in those circumstances?
 
