@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Much Will My House Appreciate?
-date: 2020-05-15 17:17:22
+date: 2020-06-09 00:00:00
 tags:
   - Market Update
 excerpt: Here’s how we determine how much a home’s value will appreciate.
