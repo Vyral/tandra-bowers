@@ -6,13 +6,13 @@ tags:
   - Market Update
 excerpt: Here’s how we determine how much a home’s value will appreciate.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Tandra+Bowers/2020/Tandra+Bowers+Video+Blog+How+Much+Will+My+House+Appreciate_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Tandra+Bowers/2020/Tandra+Bowers+Video+Blog+appreciate.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: PbOd2HeI9Pc
+youtube_code: LinzADs0SXI
 ---
 
 {% include youtube.html %}
