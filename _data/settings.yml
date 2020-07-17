@@ -41,7 +41,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://search.homeexpertsforyou.com/search'
+  second_CTA_URL: 'https://www.homeexpertsforyou.com/'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
@@ -57,7 +57,7 @@ second_sidebar_CTA:
       Find a home in Montgomery County, Bucks County, Delaware County, Chester
       County & Philadelphia
     CTA_link_text2: Search the MLS
-    CTA_url2: 'http://search.homeexpertsforyou.com/agent/226893'
+    CTA_url2: 'https://www.homeexpertsforyou.com/'
 lender:
   show_section: true
   header_text: Preferred Lender
