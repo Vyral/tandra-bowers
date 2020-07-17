@@ -23,15 +23,15 @@ youtube_code: RazMPOWCUno
 
 <p style="text-align: center;"><em>I’m sharing why you cannot trust Zillow’s Zestimates to be completely accurate valuations of your home.</em></p>
 
-If you’ve visited the Zillow website, then you know about Zestimates. Are Zestimates an accurate representation of your home’s value? The simple answer is that typically, that number is imprecise. Zillow uses a specific algorithm, but a custom home valuation you can get from a Realtor or appraiser is much more exact.
+If you’ve visited the Zillow website, then you know about Zestimates. Are Zestimates an accurate representation of your home’s value? The simple answer is that typically, that number is imprecise. Zillow uses a specific algorithm, but a custom home valuation you can get from a Realtor or appraiser is much more precise.
 
 {% include pullquote.html %}
 
 **Factors that help determine your home’s value:&nbsp;**
 
 * Condition of the home. Is it updated? Does it need repairs?&nbsp;
-* Comparables. What comparable homes have sold in the last 180 days that compares?
-* Location. This can truly vary your property’s value
+* Comparables. What comparable homes have sold in the last 180 days that compare?
+* Location. This can truly impact your property’s value
 
 These are all factors that Zestimates cannot take into account. A Zestimate might be a number that helps you get started, but for an authentic valuation, you need a custom one done by a professional.&nbsp;
 
