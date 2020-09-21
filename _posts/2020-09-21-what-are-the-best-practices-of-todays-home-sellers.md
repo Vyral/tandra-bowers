@@ -17,7 +17,7 @@ youtube_code: AEWbJhvC1eA
 
 {% include youtube.html %}
 
-Here are some smart tips for home sellers in 2020.
+<p style="text-align: center;"><em>Here are some smart tips for home sellers in 2020.</em></p>
 
 If you’re looking to sell your home any time in the next year, there are some best practices and other pieces of information that you should be aware of:
 
