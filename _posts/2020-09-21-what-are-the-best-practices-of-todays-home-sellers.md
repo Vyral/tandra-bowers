@@ -21,7 +21,7 @@ youtube_code: AEWbJhvC1eA
 
 If you’re looking to sell your home any time in the next year, there are some best practices and other pieces of information that you should be aware of:
 
-**1\. There’s no overlap of showings right now.** We’re limited to one Realtor and two people through your home at a time. Showings are staggered as a result.
+**1\. There’s no overlap of showings right now.** We’re limited to one Realtor and two people walking through your home at a time. Showings are staggered as a result.
 
 **2\. Declutter and depersonalize.** Make sure you take the time to clean and clear out your home. Make sure your walkways are clear of clutter as well.
 
@@ -29,6 +29,6 @@ If you’re looking to sell your home any time in the next year, there are some 
 
 **3\. Safety precautions will be taken.** Everyone must wear masks and booties during showings, and hand sanitizer is frequently used and readily available.
 
-**4\. Keep lights on and doors open.** Open up your interior doors, closet doors, any of your cabinets in your kitchen. The fewer things people need to touch, the better. They can get a good look at what your home has to offer as long as everything’s open.
+**4\. Keep lights on and doors open.** Open up your interior doors, closet doors, and any cabinets in your kitchen. The fewer things people need to touch, the better. They can get a good look at what your home has to offer as long as everything’s open.
 
 If you have any questions for me about selling your home or anything else related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
