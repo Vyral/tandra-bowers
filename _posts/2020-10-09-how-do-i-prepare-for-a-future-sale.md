@@ -16,6 +16,8 @@ youtube_code: UB9uEG46Bx0
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>These are my three top tips for how to prepare your home for a future sale.</em></p>
+
 If you’re considering selling next spring, planning ahead will help you sell quickly and for top dollar. Here are three key tips to help you prepare for a future sale:
 
 **1\. Take photos now.** Right now, everything is still green and lush outside; in the spring, there could still be snow and dead grass areas around your home. Now is the time to take photos of your home’s exterior. This way, your photos will look great whenever you’re ready to list.&nbsp;
