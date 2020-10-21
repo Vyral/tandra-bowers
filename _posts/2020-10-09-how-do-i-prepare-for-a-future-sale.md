@@ -5,13 +5,14 @@ date: 2020-10-09 18:04:00
 tags:
   - Home Seller Tips
 excerpt: These are my three top tips for how to prepare your home for a future sale.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tandra+Bowers/2020/Tandra+Bowers+Video+Blog+seeling+nexct+spring.mp4
 pullquote: Now is the time to take photos of your house’s exterior.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/10-9---tandra-bowers---yt.jpg
-youtube_code: UB9uEG46Bx0
+youtube_code: SPJ5KtRiSjg
 ---
 
 {% include youtube.html %}
