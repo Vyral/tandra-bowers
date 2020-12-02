@@ -17,7 +17,7 @@ youtube_code: KYDmLtx5FSY
 
 {% include youtube.html %}
 
-We’re giving back to a local family in need, and we need your help.
+<p style="text-align: center;"><em>We’re giving back to a local family in need, and we need your help.</em></p>
 
 To us, the holiday season is about giving back to those in need, and we need your help to do it. We’re incredibly fortunate to have wonderful friends, family, and clients. To express our gratitude, we want to give back to a local family who’s experiencing hardship this year.&nbsp;
 
