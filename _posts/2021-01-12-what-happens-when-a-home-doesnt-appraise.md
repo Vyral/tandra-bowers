@@ -17,7 +17,7 @@ youtube_code: E73JSn3ZlUE
 
 {% include youtube.html %}
 
-These are your options when a home appraises below its sale price.
+<p style="text-align: center;"><em>These are your options when a home appraises below its sale price.</em></p>
 
 When a home’s appraised value doesn’t meet the agreed-upon sales price, what can you do? I have some helpful tips to share today.
 
