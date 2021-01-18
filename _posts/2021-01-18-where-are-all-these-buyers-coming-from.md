@@ -4,7 +4,7 @@ title: Where Are All These Buyers Coming From?
 date: 2021-01-18 18:00:56
 tags:
   - Home Buyer Tips
-excerpt: A closer look at where this huge influx of homebuyers is coming from.
+excerpt: Here's a closer look at where this huge influx of homebuyers is coming from.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Tandra+Bowers/2021/Tandra+Bowers+Video+Blog+Where+Are+All+of+the+Buyers+Coming+From_.mp4
 pullquote: Single-family homes with a little land are the most sought-after.
@@ -17,7 +17,7 @@ youtube_code: 7k2XcAsQxkU
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>A closer look at where this huge influx of homebuyers is coming from.</em></p>
+<p style="text-align: center;"><em>Here's a closer look at where this huge influx of homebuyers is coming from.</em></p>
 
 You might’ve noticed a big influx in homebuyers in our real estate market. Where have they come from? Two main things are bringing them here:
 
