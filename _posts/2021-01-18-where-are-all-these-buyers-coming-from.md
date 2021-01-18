@@ -25,6 +25,6 @@ You might’ve noticed a big influx in homebuyers in our real estate market. Whe
 
 {% include pullquote.html %}
 
-**2\. The COVID pandemic.** Employers are encouraging employees to work from home to prevent the spread of the disease. This is enabling employees to consider living further from their place of work. We’re seeing huge demand in counties such as Montgomery, Bucks, Chester, and Delaware County. Single-family homes with a little land are the most sought-after, and larger homes are still selling quickly and for top dollar. Secondary home sales have taken off as well in areas like the Jersey Shore, Maryland Shore, and the Poconos.
+**2\. The COVID pandemic.** Employers are encouraging employees to work from home to prevent the spread of the disease. This is enabling employees to consider living further from their place of work. We’re seeing huge demand in counties such as Montgomery, Bucks, Chester, and Delaware. Single-family homes with a little land are the most sought-after, and larger homes are still selling quickly and for top dollar. Secondary home sales have taken off as well in areas like the Jersey Shore, Maryland Shore, and the Poconos.
 
 If you want further information about the market, what your home might be worth today, or real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
