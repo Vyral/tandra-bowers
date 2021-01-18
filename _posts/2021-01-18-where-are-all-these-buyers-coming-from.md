@@ -17,7 +17,7 @@ youtube_code: 7k2XcAsQxkU
 
 {% include youtube.html %}
 
-A closer look at where this huge influx of homebuyers is coming from.
+<p style="text-align: center;"><em>A closer look at where this huge influx of homebuyers is coming from.</em></p>
 
 You might’ve noticed a big influx in homebuyers in our real estate market. Where have they come from? Two main things are bringing them here:
 
