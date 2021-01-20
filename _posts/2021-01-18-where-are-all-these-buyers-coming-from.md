@@ -6,13 +6,13 @@ tags:
   - Home Buyer Tips
 excerpt: Here's a closer look at where this huge influx of homebuyers is coming from.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Tandra+Bowers/2021/Tandra+Bowers+Video+Blog+Where+Are+All+of+the+Buyers+Coming+From_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Tandra+Bowers/2021/where+art+thou+buyers+coming+from.mp4
 pullquote: Single-family homes with a little land are the most sought-after.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 7k2XcAsQxkU
+youtube_code: o8hj0BvwM9g
 ---
 
 {% include youtube.html %}
