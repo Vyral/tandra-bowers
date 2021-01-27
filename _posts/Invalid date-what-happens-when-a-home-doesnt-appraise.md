@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Happens When a Home Doesn't Appraise?
-date: 0000-00-00 00:00:00
+date: Invalid date
 tags:
   - Home Seller Tips
 excerpt: These are your options when a home appraises below its sale price.
