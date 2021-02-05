@@ -6,7 +6,7 @@ tags:
   - Home Seller Tips
 excerpt: These are your options when a home appraises below its sale price.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Tandra+Bowers/2021/Tandra+Bowers+Video+Blog+When+the+Appraised+Value+Doesn't+Meet+the+Contract+Price.mp4
+  https://vyralmarketing.s3.amazonaws.com/Tandra+Bowers/2021/Tandra+Bowers+Video+Blog+appraised+price.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
