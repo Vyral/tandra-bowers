@@ -19,7 +19,7 @@ youtube_code: BOuyVlFJlPE
 
 {% include youtube.html %}
 
-Matt Godschall of Lacher Insurance busts some flood damage myths.
+<p style="text-align: center;"><em>Matt Godschall of Lacher Insurance busts some flood damage myths.</em></p>
 
 Here in Pennsylvania, we have a very wet climate; flooding is a reality that homeowners have to prepare for. Even with precautionary measures in place, though, the unthinkable can happen—do you know what are you covered for? What should you be looking for when shopping for insurance, and what are the best strategies for protecting your assets?&nbsp;
 
