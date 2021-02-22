@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Are You Guarded Against Flood Damage?
-date: 2021-02-22 15:46:37
+date: 2021-02-22 15:46:00
 tags:
   - Real Estate
 excerpt: Matt Godschall of Lacher Insurance busts some flood damage myths.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tandra+Bowers/2021/Guest+Interview_+Flood+Insurance.mp4
 pullquote: >-
   Water backup coverage is certainly something you’ll want to explore with your
   insurance professional.
