@@ -23,10 +23,15 @@ I’m super excited to be joined by Megan Munley from Fairway Independent Mortga
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:**
 
 1:20- Megan’s 2021 predictions for mortgage interest rates
+
 4:15- A look at historical interest rate trends and projections from Moody’s
+
 6:45- Why all buyers need to consider their timeline in addition to the interest rates
+
 10:00- How Megan is actually helping sellers in this market through refinances and subsequent purchases
+
 12:00- How supply chain issues are affecting new home construction timelines and prices
+
 12:40- Wrapping things up
 
 Here are the key takeaways you need about interest rates in the mortgage world right now:
