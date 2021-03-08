@@ -16,7 +16,7 @@ youtube_code: G4Hq-eDvvCg
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Megan Munley joined me recently to talk rates, refinances, and more.</em></p>.
+<p style="text-align: center;"><em>Megan Munley joined me recently to talk rates, refinances, and more.</em></p>
 
 I’m super excited to be joined by Megan Munley from Fairway Independent Mortgage to give a big update on mortgage rates in 2021. She has some great insight to share with us today on how rates are not only affecting buyers, but also affecting sellers. 
 
