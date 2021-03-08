@@ -4,7 +4,8 @@ title: A Deep Dive Into Mortgage Rates With Megan Munley
 date: 2021-03-08 00:00:00
 tags: -Mortgage
 excerpt: Megan Munley joined me recently to talk rates, refinances, and more.
-enclosure: 
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tandra+Bowers/2021/Tandra+Bowers+Video+Blog+Mortgage+Rates+Update+2021.mp4
 pullquote: While refinances will slow, purchases should continue with pretty solid demand. 
 enclosure_type: video/mp4
 enclosure_time:
