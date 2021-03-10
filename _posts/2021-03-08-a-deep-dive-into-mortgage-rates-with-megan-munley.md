@@ -34,22 +34,24 @@ I’m super excited to be joined by Megan Munley from Fairway Independent Mortga
 
 12:40- Wrapping things up
 
-Here are the key takeaways you need about interest rates in the mortgage world right now:
+Here are the key takeaways you need to know about interest rates in the mortgage world right now:
 
-**1. It started last week with consumer spending**. The consensus for the release was 1% and it increased 5%, which blew everyone away with concerns about inflation. Basically everyone spent their $400 checks on “stuff.” This kicked it off. The markets are now looking at the new stimulus bill about to pass and the $1,400 that millions of Americans will get. All of this points to a quicker economic recovery and inflation. A quicker recovery and the likelihood that vaccines will be widely distributed by summer points to the Fed beginning taper their purchases. As Moody's forecast suggests, we will have rapid employment growth and with the Fed tapering rates will be pressed upwards. Look at the first slide from Moody’s which points this out **(4:58 in the video above).**
+**1. It started last week with consumer spending.** The consensus for the release was 1% and it increased 5%, which blew everyone away with concerns about inflation. Everyone spent their $400 checks on “stuff.” This kicked it off. The markets are now looking at the new stimulus bill about to pass and the $1,400 that millions of Americans will get. 
+
+All of this points to a quicker economic recovery and inflation. A quicker recovery and the likelihood that vaccines will be widely distributed by summer points to the Fed beginning to taper their purchases. As Moody's forecast suggests, we will have rapid employment growth and with the Fed tapering, rates will be pressed upwards. Look at the first slide from Moody’s which shows this **(4:58 in the video above).**
 
 **2. The Moody’s Analytics rates forecast (4:22 in the video above) is the result of** us exiting the COVID pandemic, a likely strong economic rebound, and unprecedented auction volume of treasuries which will result in price declines and yields rising. This isn’t dramatic, but Dr. Mark Zandi of Moody’s points to mortgage rates solidly in the 3s by Q3 of this year.
 
 
 {% include pullquote.html %}
 
-**The truth be told is this:**
+**The truth is this:**
  
-The super-low rates were due to a sick economy and the Fed stepping in with dramatic QE driving yields low. They were great for mortgages, but unsustainable. As the economy gains strength, the Fed won’t need to intervene and rates will rise to more normalized levels—3s in 2021 and 4s in 2022. These are still extremely low rates and while refinances will slow, purchases should continue with pretty solid demand. 
+The super-low rates were due to a sick economy and the Fed stepping in with dramatic QE driving yields low. They were great for mortgages but unsustainable. As the economy gains strength, the Fed won’t need to intervene and rates will rise to more normalized levels—3s in 2021 and 4s in 2022. These are still extremely low rates, and while refinances will slow, purchases should continue with pretty solid demand. 
  
 Change is inevitable in our industry, but the fundamentals of economics will drive this. The trend is up, but there will be intermittent days in between where there is some slight pullback, like today. Don’t let these days fool you. Lock, don’t float.
 
-If you have any questions for Megan, feel free to visit her <a href="http://meganmunley.com" target="_blank">website</a> or reach out to her by phone at (215) 710-0722 or by email at <a href="Megan.Munley@FairwayMC.com">Megan.Munley@FairwayMC.com.</a>
+If you have any questions for Megan, <strong>feel free to visit her <a href="http://meganmunley.com" target="_blank">website</a></strong> or reach out to her by phone at (215) 710-0722 or by email at <a href="Megan.Munley@FairwayMC.com">Megan.Munley@FairwayMC.com.</a>
 
 If you have any other questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
 
