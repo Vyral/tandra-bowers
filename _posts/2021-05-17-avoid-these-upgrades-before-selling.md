@@ -18,7 +18,7 @@ youtube_code: sPENUvFkOmU
 
 {% include excerpt.html %}
 
-If you’re a seller and looking to increase your home’s value, there are plenty of things you can do that will add to it. However, there are four specific upgrades that you should avoid because they won’t bring a good return on your investment:
+If you’re a seller and looking to increase your home’s value, there are plenty of things you can do that will add to it. However, there are four specific upgrades that you should avoid because they won’t bring a good return on your investment (ROI):
 
 **1\. Remodeling the second or third stories of your home.** If you have a multi-level home, focus on improving the main floor level. If you focus on the upstairs, you won’t get the same return.
 
