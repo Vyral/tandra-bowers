@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Avoid These Upgrades Before Selling
-date: 2021-05-17 18:38:53
+date: 2021-05-17 18:38:00
 tags:
   - Home Seller Tips
 excerpt: Here are the four home upgrade projects that you should avoid.
@@ -28,7 +28,7 @@ If you’re a seller and looking to increase your home’s value, there are plen
 
 **3\. Building an accent wall.** It looks great, but it won’t necessarily increase the value of your home.
 
-**4\. Making costly upgrades.** Replacing your water heater, furnace, or A/C unit is not the best idea. If they’re broken, it’s understandable, but if they’re functioning properly, there’s no reason to replace them.
+**4\. Making costly upgrades.** Replacing your water heater, furnace, or A/C unit is not the best idea. If they are broken, it's understandable, but if they are functioning properly, there’s no reason to replace them.
 
 Focus your efforts on the kitchen, main level bathrooms, flooring, and landscaping. Those are all high-value upgrades, along with painting.
 
