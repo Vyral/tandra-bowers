@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Avoid These Upgrades Before Selling
-date: 2021-05-17 18:38:00
+date: 2021-06-03 08:00:00
 tags:
   - Home Seller Tips
 excerpt: Here are the four home upgrade projects that you should avoid.
