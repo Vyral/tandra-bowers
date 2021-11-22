@@ -63,14 +63,14 @@ lender:
   header_text: Preferred Lender
   headshot_path:
   logo_path: /uploads/unnamed.png
-  name: Megan M. Byrne
-  license_number: NMLS-1352319
-  title: Mortgage Advisor
-  brand: Fairway Independent Mortgage Corporation
-  phone:
-  phone_type: Office
-  phone2: 215-833-7064
-  phone2_type: Cell
+  name: Megan Munley
+  license_number: NMLS 1352319
+  title: Loan Officer
+  brand: 2250 Hickory Road Suite 100 Plymouth Meeting, PA 19462
+  phone: 215-833-7064
+  phone_type: direct
+  phone2: 215-618-8805
+  phone2_type: office
   email: megan.byrne@fairwaymc.com
   url: 'https://express.fairwayindependentmc.com'
 socials:
