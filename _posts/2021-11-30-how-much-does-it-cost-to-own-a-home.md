@@ -1,18 +1,17 @@
 ---
 layout: post
 title: How Much Does It Cost To Own a Home?
-date: 2021-11-11 14:40:00
+date: 2021-11-30 14:40:00
 tags:
     - Home Buyer Tips
 excerpt: Here are five hidden costs to homeownership that you should budget for.
-enclosure: >-
-    https://vyralmarketing.s3.amazonaws.com/Tandra+Bowers/2021/How+Much+Does+It+Cost+To+Own+a+Home_+(1).mp4
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: XMqYR4_iNGQ
+youtube_code: lctk7Klw1cs
 ---
 {% include youtube.html %}
 
