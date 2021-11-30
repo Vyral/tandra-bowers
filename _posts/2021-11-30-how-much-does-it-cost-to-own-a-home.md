@@ -5,13 +5,14 @@ date: 2021-11-30 14:40:00
 tags:
     - Home Buyer Tips
 excerpt: Here are five hidden costs to homeownership that you should budget for.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Tandra+Bowers/2021/How+Much+Does+It+Cost+To+Own+a+Home_+(3).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: f_8kwoswBio
+youtube_code: 2jTQTjnB9yE
 ---
 {% include youtube.html %}
 
