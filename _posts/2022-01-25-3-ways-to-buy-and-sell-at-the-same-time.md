@@ -7,7 +7,8 @@ tags:
   - Home Seller Tips
   - Real Estate
 excerpt: Here are three ways you can buy and sell a home at the same time.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tandra+Bowers/How+To+Buy+And+Sell+At+The+Same+Time+(1).mp4
 pullquote: 'You have options when it comes to buying and selling at the same time. '
 enclosure_type: video/mp4
 enclosure_time:
