@@ -9,7 +9,7 @@ enclosure:
 pullquote: A portion of your home office can be deducted against your business income.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/2-25-22yt-1.jpg
 youtube_code: A-2xRgpBcTc
 ---
@@ -18,6 +18,8 @@ youtube_code: A-2xRgpBcTc
 {% include excerpt.html %}
 
 I’m here at SD Associates in Elkins Park, PA with Tax Manager Sam Schatzman. We’re in the thick of tax season, so I was excited to do a quick Q&A with Sam today. Here are the answers to some of the most common questions that homeowners have been asking us as we approach the deadline to file your return:
+
+{% include pullquote.html %}
 
 ***What are the most important documents I need as a homeowner?***
 
@@ -30,8 +32,6 @@ They come in the form of increased itemized deductions. It includes the real est
 ***Can I deduct my home office?***
 
 A lot of people have desiccated spaces to run their businesses out of their homes. Certain people are allowed to claim that deduction, such as self-employed. If you are, keep track of the square footage of the dedicated space that you have for your business, and you'll also want to keep track of every other home-related expense. A portion of it can be deducted against your business income.
-
-{% include pullquote.html %}
 
 Thanks so much to Sam for joining me. If you have any tax-related questions for him, give him a call at (215) 517-5600 and ask for Sam.
 
