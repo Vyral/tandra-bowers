@@ -10,7 +10,7 @@ pullquote: A portion of your home office can be deducted against your business i
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/2-25-22yt-1.jpg
+youtube_alternate_image: /uploads/3-1-22yt.jpg
 youtube_code: A-2xRgpBcTc
 ---
 {% include youtube.html %}
