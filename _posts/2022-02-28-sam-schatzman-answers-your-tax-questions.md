@@ -31,9 +31,9 @@ They come in the form of increased itemized deductions. It includes the real est
 
 ***Can I deduct my home office?***
 
-A lot of people have dedicated spaces to run their businesses out of their homes. Certain people are allowed to claim that deduction, such as self-employed. If you are, keep track of the square footage of the dedicated space that you have for your business, and you'll also want to keep track of every other home-related expense. A portion of it can be deducted against your business income.
+A lot of people have desiccated spaces to run their businesses out of their homes. Certain people are allowed to claim that deduction, such as those who are self-employed. If you are, keep track of the square footage of the dedicated space that you have for your business, and you'll also want to keep track of every other home-related expense. A portion of it can be deducted against your business income.
 
-Thanks so much to Sam for joining me. If you have any tax-related questions for him, give him a call at (215) 517-5600 and ask for Sam.
+A special Thank You to Sam for joining me on these important topics. If you have any tax-related questions for him, give him a call at (215) 517-5600 and ask for Sam.
 
 If you have any other real estate-related questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
 
