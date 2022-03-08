@@ -17,7 +17,7 @@ youtube_code: H8sjHJypJtA
 
 {% include excerpt.html %}
 
-Today I am pleased to introduce Megan Munley from Movement Mortgage. We’re in a pretty wild market, so I wanted to bring in an expert to talk about interest rates, making an offer in a tough environment, and more. 2022 has started off with a bang, but we may be due for some changes.
+Today I am pleased to introduce Megan Munley from <u><a target="_blank" rel="noopener" href="https://movement.com/">Movement Mortgage</a></u>. We’re in a pretty wild market, so I wanted to bring in an expert to talk about interest rates, making an offer in a tough environment, and more. 2022 has started off with a bang, but we may be due for some changes.
 
 You can watch our full conversation in the video above, or you can skip to each topic using the timestamps provided:
 
