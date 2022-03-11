@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Megan Munley on Interest Rates and our Market
+title: Megan Munley on Interest Rates and Our Market
 date: 2022-03-08 00:00:00
 tags:
   - Home Buyer Tips
@@ -19,7 +19,7 @@ youtube_code: H8sjHJypJtA
 
 Today I am pleased to introduce Megan Munley from <u><a target="_blank" rel="noopener" href="https://movement.com/">Movement Mortgage</a></u>. We’re in a pretty wild market, so I wanted to bring in an expert to talk about interest rates, making an offer in a tough environment, and more. 2022 has started off with a bang, but we may be due for some changes.
 
-You can watch our full conversation in the video above, or you can skip to each topic using the timestamps provided:
+**You can watch our full conversation in the video above, or you can skip to each topic using the timestamps provided:**
 
 0:00 — Introduction
 
