@@ -37,7 +37,7 @@ Today I am pleased to introduce Megan Munley from <u><a target="_blank" rel="noo
 
 9:25 — How can buyers make their offers stand out?
 
-12:46 — How Melissa goes above and beyond for her buyers
+12:46 — How Megan goes above and beyond for her buyers
 
 14:30 — Wrapping things up
 
