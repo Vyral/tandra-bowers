@@ -23,14 +23,14 @@ Today I’m excited to be joined by Robert Battle from [<u>Core Inspection Group
 
 0:00 — Introducing today’s topic
 
-0:30— What Core Inspection Group does for homebuyers
+0:30 — What Core Inspection Group does for homebuyers
 
-1:35— A new service called “Walk and Talks” can help protect homebuyers who are considering waiving their inspections altogether
+1:35 — A new service called “Walk and Talks” can help protect homebuyers who are considering waiving their inspections altogether
 
-4:55— My thoughts on the Walk and Talk inspection
+4:55 — My thoughts on the Walk and Talk inspection
 
-5:33— How to get in touch with Robert and Core Inspection group
+5:33 — How to get in touch with Robert and Core Inspection group
 
-6:38— Wrapping things up
+6:38 — Wrapping things up
 
 If you have any questions at all for Rob, give him a call at (215) 715-0738. If you have any real estate-related questions for my team, don’t hesitate to reach out via phone or email today. We look forward to hearing from you soon.
