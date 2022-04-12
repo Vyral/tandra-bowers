@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Q&A With Robert Battle of Core Inspection Group
+title: 'Buyers: What''s a "Walk & Talk"?'
 date: 2022-04-05 00:00:00
 tags:
   - Home Buyer Tips
