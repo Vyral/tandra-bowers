@@ -9,7 +9,7 @@ description: >-
   professional -- MARKET -- Real Estate Agents.
 show_custom_links: true
 custom_links:
-  - title: Upcoming Events
+  - title: Events
     url: 'https://suburblivingblog.com/events/'
   - title: Testimonials
     url: /testimonials/
