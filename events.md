@@ -3,13 +3,15 @@ layout: default
 title: Upcoming Events
 permalink: /events/
 ---
+<br>
 
-## **Client Appreciation Happy Hour:**
 
-## Friday, April 5th 2019
+## Blue Bell Appreciation Event
 
-This happy hour event will be at Panache Woodfire Grill on Friday, April 5th. The fun will start at 5:30 p.m., and you’re not going to want to miss a minute. We hope you’ll join us for a good time and some great food.
+<video width="400" controls>
+<FBBowersAppreciation.mp4>
+</video>
 
-Check out the website and menu here: [https://panachewoodfiregrill.com/about-panache/](https://panachewoodfiregrill.com/about-panache/){: target="_blank"}
+<br>
+"Thank you to everyone who came out to support and connect with us. We are so grateful to you all. This will be the first of many and we’d love to see you at the next event. Give us a call or email us today if you want to join the next one!"
 
-To RSVP, email&nbsp;[Tandra@homeexpertsforyou.com](mailto:Tandra@homeexpertsforyou.com){: target="_blank"}
