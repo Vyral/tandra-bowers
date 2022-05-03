@@ -11,8 +11,8 @@ enclosure:
 pullquote: Selling this year puts you ahead of the race.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/5-2-22yt.jpg
 youtube_code: OSoRjM1gJbQ
 ---
 {% include youtube.html %}
@@ -23,7 +23,7 @@ The spring rush is here\! Today’s market definitely favors sellers over buyers
 
 First, mortgage rates are set to rise throughout the year. That means buyer offers may shrink as homes become less affordable for them. **The pool of buyers you have in 2022 is much larger**, which gives you the advantage of being able to accept offers that best suit your needs.
 
-Additionally, construction may rebound soon from pandemic-related delays. That will only create more competition among sellers. Selling this year puts you ahead of that race. **If fear is what’s making you wait, know that there are plenty of options out there for you**. A real estate professional like me can lay them out for you.&nbsp;
+Additionally, construction may rebound soon from pandemic-related delays. That will only create more competition among sellers. Selling this year puts you ahead of that race. **If fear is what’s making you wait, know that there are plenty of options out there for you**. A real estate professional like me can lay them out for you.
 
 {% include pullquote.html %}
 
@@ -32,5 +32,3 @@ For example, many people who need to sell their homes also need to buy new ones.
 If you’re in need of funds for the down payment on your next home, certain loan options require less money down. We’d be glad to help you figure out which loans would work best for you. Alternatively, if you want to submit a larger down payment in order to be more competitive, you can seek a home equity line of credit. That will allow you to turn the equity you’ve built up in your current home into a down payment on the next.
 
 If you’d like to hear more about the options you have for selling your home in today’s market, or if you have any questions, give us a call or send an email. We’d love to help you.
-
-&nbsp;
