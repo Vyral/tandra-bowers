@@ -108,7 +108,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /uploads/tandra-logo.png
-  logo_width_number: 75
+  logo_width_number: 50
   hero_text: Tandra's Real Estate Video Blog
   hero_background_hex: '#999999'
   hero_image_path: /uploads/tandra-bowers-background-1.png
