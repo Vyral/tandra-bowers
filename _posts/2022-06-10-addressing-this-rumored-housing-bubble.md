@@ -10,9 +10,9 @@ enclosure:
 pullquote: Don’t worry, a balanced market is on the horizon.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code: m-kZYXm0Yf8
+use_youtube_image: false
+youtube_alternate_image: /uploads/6-15-22yt-1.jpg
+youtube_code: LI2R-x0r4gM
 ---
 {% include youtube.html %}
 
