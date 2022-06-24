@@ -11,8 +11,8 @@ enclosure:
 pullquote: Not all cracks are bad.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/6-22-22-tandra-bowers-yt.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/6-24-22yt-1.jpg
 youtube_code: VeXAjHR9vwY
 ---
 {% include youtube.html %}
