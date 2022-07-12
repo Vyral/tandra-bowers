@@ -6,10 +6,10 @@ tags:
   - Real Estate
   - Home Seller Tips
   - Home Buyer Tips
-excerpt:
-enclosure: Four tips that will help make your out-of-state move easier.
+excerpt: Four tips that will help make your out-of-state move easier.
+enclosure:
 pullquote:
-enclosure_type: video/mp4
+enclosure_type:
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
