@@ -16,7 +16,7 @@ youtube_code: z2T2TMe4FKQ
 
 {% include excerpt.html %}
 
-In Ken’s words, our moisture-laden soil in Pennsylvania will often cause problems in basements. If you have a block foundation, the block may be bowing or have horizontal cracks. You might see water stains, active water flow, or white flakes. In concrete foundations, you want to watch out for bowing, vertical cracks, and water stains.
+In Ken’s words, our moisture-laden soil in Pennsylvania will often cause problems in basements. If you have a block foundation, it may be bowing or have horizontal cracks. You might see water stains, active water flow, or white flakes. In concrete foundations, you want to watch out for bowing, vertical cracks, and water stains.
 
 **All of those are signs of water pressure behind your foundation.** The water is looking for somewhere to go, and it’s exerting a ton of pressure on your foundation. Your home won’t fall down, but you need to relieve that pressure.&nbsp;
 
