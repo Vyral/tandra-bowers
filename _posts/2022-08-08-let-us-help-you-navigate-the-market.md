@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Let Us Help You Navigate the Market
-date:
+date: 2022-08-07 00:00:00
 tags:
 excerpt: Whether you’re wanting to move now or in the fall, you need a plan.
 enclosure:
