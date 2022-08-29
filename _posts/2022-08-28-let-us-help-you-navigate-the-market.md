@@ -15,7 +15,7 @@ youtube_code: N7kkNvFh318
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
+{% include excerpt.html %}&nbsp;
 
 Is right now a good time to buy or sell a home?
 
