@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Let Us Help You Navigate the Market '
-date: 2022-08-28 07:00:00
+date: 2022-09-06 07:00:00
 tags:
   - Home Seller Tips
 excerpt: 'Whether you’re wanting to move now or in the fall, you need a plan. '
