@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'How Ken Justice Can Help You Renovate '
+title: Let's hear from an Engineer Expert... Ken Justice.
 date: 2022-10-03 07:00:00
 tags:
   - Home Buyer Tips
