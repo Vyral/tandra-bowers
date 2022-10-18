@@ -26,13 +26,11 @@ Typically, mortgage lenders provide a floating rate, which is an estimated rate 
 
 {% include pullquote.html %}
 
-What if rates go down after you’ve locked yours? Much like it sounds, once you’re locked in, you can’t change your rate. However, there are ways to get a lower rate after locking in. For one,**&nbsp;depending on the terms of your contract,**&nbsp;you could simply cancel your loan application and find a new lender. Secondly, you can&nbsp;**ask your lender if they provide float-down options,**&nbsp;which prevent your rates from rising but allow your rate to lower if market rates begin to fall again**.**&nbsp;Be advised, though, that float-down options typically come with an extra cost in exchange for a lower rate.
-
 Once you’ve gone under contract, your lender will provide an actual rate which you have the option to lock in between when you apply for the mortgage and the closing date. In a market with rising rates, you should lock yours in as soon as possible to prevent it from increasing further.&nbsp;
 
 Most rate locks last for between 15 and 60 days. Remember to ensure that your lock extends past your closing date because your rate could shoot back up if it expires before you close. Get a longer rate-lock period than it seems like you’ll need, just in case, and ask your lender if it will cost a fee to renew it.&nbsp;
 
-What if rates go down after you’ve locked yours? Much like it sounds, once you’re locked in, you can’t change your rate. However, there are ways to get a lower rate after locking in. For one, you could simply cancel your loan application and find a new lender. Secondly, you can **ask your lender if they provide float-down options,** which prevent your rates from rising but allow your rate to lower if market rates begin to fall again**.** Be advised, though, that float-down options typically come with an extra cost in exchange for a lower rate.
+What if rates go down after you’ve locked yours? Much like it sounds, once you’re locked in, you can’t change your rate. However, there are ways to get a lower rate after locking in. For one, depending on the terms of your contract, you could simply cancel your loan application and find a new lender. Secondly, you can ask your lender if they provide float-down options, which prevent your rates from rising but allow your rate to lower if market rates begin to fall again. Be advised, though, that float-down options typically come with an extra cost in exchange for a lower rate.
 
 If you have any questions or would like to learn more about mortgage rate locks and float-down options, don’t hesitate to give me a call or send an email. I’d be happy to help you.
 
