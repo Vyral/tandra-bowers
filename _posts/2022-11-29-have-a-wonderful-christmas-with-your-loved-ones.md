@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Have a Wonderful Christmas With Your Loved Ones
+title: Have a Wonderful Holiday With Your Loved Ones
 date: 2022-11-29 12:00:00
 tags:
-excerpt: We want to greet you Merry Christmas and express our gratitude!
+excerpt: We want to wish you a Happy Holiday and express our gratitude!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
