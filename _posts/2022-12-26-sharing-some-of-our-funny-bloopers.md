@@ -16,6 +16,6 @@ youtube_code: HiVSF817zNM
 
 {% include excerpt.html %}
 
-**Happy New Year, everyone\!** Are you already feeling the holiday spirit—because we sure are\! Today we’re sharing a few behind-the-scenes footages of our weekly videos.&nbsp;
+**Happy New Year, everyone\!** Are you already feeling the holiday spirit—because we sure are\! Today, we're sharing some behind-the-scenes footage of our weekly videos.
 
 **Watch the video above to see some of our funny bloopers.** We love to have a good laugh and just enjoy the moment even as we make silly mistakes while filming. Happy holidays, and we hope you have an amazing time with your loved ones\! As always, if you have any real estate questions, call or email us. We’d love to hear from you.
