@@ -8,8 +8,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/12-14-22yt.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/12-27-22yt.jpg
 youtube_code: HiVSF817zNM
 ---
 {% include youtube.html %}
