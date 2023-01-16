@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Determining if Now Is the Right Time To Act
+title: When Is The Right Time To Sell Or Buy A Home?
 date: 2023-01-08 07:00:00
 tags:
 excerpt: How to determine when it’s the right time to make a move in real estate.
