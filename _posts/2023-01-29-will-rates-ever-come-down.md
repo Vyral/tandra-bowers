@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image:
-youtube_alternate_image: /uploads/12-29-22yt.jpg
+youtube_alternate_image: /uploads/how-to-become-a-1.jpg
 youtube_code: DOAc5QH7t4Y
 ---
 {% include youtube.html %}
