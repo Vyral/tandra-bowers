@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What To Consider When Buying an Investment Property
-date: 2023-02-02 07:00:00
+date: 2023-02-15 06:00:00
 tags:
 excerpt: 'Three things you have to consider when purchasing an investment property. '
 enclosure:
