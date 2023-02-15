@@ -3,15 +3,6 @@ layout: default
 title: Testimonials
 permalink: /testimonials/
 ---
+# Client Audio Testimonials
 
-<h1>Client Audio Testimonials</h1>
-
-<div class="client-testimonial">
-<!-- insert iframe -->
-<p class ="testimonial-text">
-<!-- QUOTE TEXT -->
-</p>
-<p class="testimonial-author">
-<!-- QUOTE AUTHOR -->
-</p>
-<hr>
+<div class="client-testimonial"><!-- insert iframe --><p class="testimonial-text"><!-- QUOTE TEXT --></p><p class="testimonial-author"><!-- QUOTE AUTHOR --></p><hr /></div>
